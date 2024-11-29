@@ -30,6 +30,8 @@
         <div style="margin-top: 2rem !important;">
           <table class="table table-striped">
       <thead>
+
+        
         <tr>
           <th scope="col">#</th>
           <th scope="col">Image</th>
